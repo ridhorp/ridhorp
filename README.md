@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there 👋 I am Ridho
+
+- 🔭 I’m currently working as Full Stack Web at [Cipta Grafika](https://ciptagrafika.com/)
+- 🌱 I’m currently learning MERN
+- 📫 How to reach me: [my profile linkedin](https://www.linkedin.com/in/ridho-perdana/)
+
+
 
 <!--
 **ridhorp/ridhorp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
